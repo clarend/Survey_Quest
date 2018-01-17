@@ -1,0 +1,1 @@
+This is a survey site for beginning Python with Flask.  Once user enters info, they will receive a successful login page and info entered will show for confirmation.
